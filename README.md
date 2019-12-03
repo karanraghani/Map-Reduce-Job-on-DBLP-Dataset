@@ -164,6 +164,7 @@ Y axis: Values
 
 X axis: Years
 Y axis: Values
+
 ![YearPublication Graph](/src/main/resources/PublicationYears.png)
 
 #### EMR Implementation
