@@ -1,4 +1,4 @@
-# Home Work II - Map Reduce Job on DBLP Dataset
+# Map Reduce Job on DBLP Dataset
 In this project work I ran the DBLP Dataset on the Apache Map/Reduce Framework to extract information such as :
 * Authorship Score
 * Stats on Mean Median and Max number of Co-Authors for an Author
@@ -158,15 +158,15 @@ The test cases runs as follows:
 X axis: Bins
 Y axis: Values
 
-![CoAuthorRange Graph](/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/CoAuthorRange.png)
+![CoAuthorRange Graph](/src/main/resources/CoAuthorRange.png)
 
 + Graph 2: In this graph we have plotted the number of publications pulished for perticular year
 
 X axis: Years
 Y axis: Values
-![YearPublication Graph](/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/PublicationYears.png)
+![YearPublication Graph](/src/main/resources/PublicationYears.png)
 
 #### EMR Implementation
 Please Refer to the embeded youtube link for details regarding deployment on AWS
 
-[EMR deployment video](https://www.youtube.com/user/kabcdefghijkl/videos?view=0&sort=dd&shelf_id=0 "title")
+[EMR deployment video](https://www.youtube.com/watch?v=i9KrH4qymZk&t=2s)
