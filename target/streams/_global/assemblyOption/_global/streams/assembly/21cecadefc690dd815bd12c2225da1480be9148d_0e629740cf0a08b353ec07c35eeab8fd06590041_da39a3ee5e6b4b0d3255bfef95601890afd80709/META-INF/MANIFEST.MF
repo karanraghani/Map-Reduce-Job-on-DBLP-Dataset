@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Built-By: joakim
+Build-Jdk: 9.0.4
+Implementation-Vendor: Eclipse.org - Jetty
+Implementation-Version: 9.3.24.v20180605
+url: http://www.eclipse.org/jetty
+Bnd-LastModified: 1528219011742
+Bundle-Classpath: .
+Bundle-Copyright: Copyright (c) 2008-2017 Mort Bay Consulting Pty. Ltd
+ .
+Bundle-Description: Jetty module for Jetty :: Server Core
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Server Core
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-SymbolicName: org.eclipse.jetty.server
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.3.24.v20180605
+Export-Package: org.eclipse.jetty.server;version="9.3.24";uses:="javax
+ .net.ssl,javax.security.auth,javax.servlet,javax.servlet.http,org.ecl
+ ipse.jetty.http,org.eclipse.jetty.io,org.eclipse.jetty.io.ssl,org.ecl
+ ipse.jetty.server.handler,org.eclipse.jetty.server.session,org.eclips
+ e.jetty.util,org.eclipse.jetty.util.annotation,org.eclipse.jetty.util
+ .component,org.eclipse.jetty.util.log,org.eclipse.jetty.util.resource
+ ,org.eclipse.jetty.util.ssl,org.eclipse.jetty.util.thread",org.eclips
+ e.jetty.server.handler;version="9.3.24";uses:="javax.servlet,javax.se
+ rvlet.descriptor,javax.servlet.http,org.eclipse.jetty.http,org.eclips
+ e.jetty.io,org.eclipse.jetty.server,org.eclipse.jetty.util,org.eclips
+ e.jetty.util.annotation,org.eclipse.jetty.util.component,org.eclipse.
+ jetty.util.log,org.eclipse.jetty.util.resource",org.eclipse.jetty.ser
+ ver.handler.gzip;version="9.3.24";uses:="javax.servlet,javax.servlet.
+ http,org.eclipse.jetty.http,org.eclipse.jetty.server,org.eclipse.jett
+ y.server.handler,org.eclipse.jetty.util,org.eclipse.jetty.util.log",o
+ rg.eclipse.jetty.server.handler.jmx;version="9.3.24";uses:="org.eclip
+ se.jetty.jmx,org.eclipse.jetty.server.handler,org.eclipse.jetty.util.
+ annotation",org.eclipse.jetty.server.jmx;version="9.3.24";uses:="org.
+ eclipse.jetty.jmx,org.eclipse.jetty.server,org.eclipse.jetty.util.ann
+ otation",org.eclipse.jetty.server.nio;version="9.3.24";uses:="org.ecl
+ ipse.jetty.io,org.eclipse.jetty.server,org.eclipse.jetty.util.ssl,org
+ .eclipse.jetty.util.thread",org.eclipse.jetty.server.session;version=
+ "9.3.24";uses:="javax.servlet,javax.servlet.http,javax.sql,org.eclips
+ e.jetty.http,org.eclipse.jetty.server,org.eclipse.jetty.server.handle
+ r,org.eclipse.jetty.util.annotation,org.eclipse.jetty.util.component,
+ org.eclipse.jetty.util.statistic,org.eclipse.jetty.util.thread",org.e
+ clipse.jetty.server.session.jmx;version="9.3.24";uses:="org.eclipse.j
+ etty.server.handler.jmx"
+Import-Package: javax.servlet;version="[2.6.0,3.2)",javax.servlet.desc
+ riptor;version="[2.6.0,3.2)",javax.servlet.http;version="[2.6.0,3.2)"
+ ,org.eclipse.jetty.http;version="[9.3.24,9.3.25)",org.eclipse.jetty.h
+ ttp.pathmap;version="[9.3.24,9.3.25)",org.eclipse.jetty.io;version="[
+ 9.3.24,9.3.25)",org.eclipse.jetty.io.ssl;version="[9.3.24,9.3.25)",or
+ g.eclipse.jetty.jmx;version="[9.3.24,9.3.25)";resolution:=optional,or
+ g.eclipse.jetty.server;version="[9.3.24,9.3.25)",org.eclipse.jetty.se
+ rver.handler;version="[9.3.24,9.3.25)",org.eclipse.jetty.server.handl
+ er.jmx;version="[9.3.24,9.3.25)",org.eclipse.jetty.server.session;ver
+ sion="[9.3.24,9.3.25)",org.eclipse.jetty.util;version="[9.3.24,9.3.25
+ )",org.eclipse.jetty.util.annotation;version="[9.3.24,9.3.25)",org.ec
+ lipse.jetty.util.component;version="[9.3.24,9.3.25)",org.eclipse.jett
+ y.util.log;version="[9.3.24,9.3.25)",org.eclipse.jetty.util.resource;
+ version="[9.3.24,9.3.25)",org.eclipse.jetty.util.ssl;version="[9.3.24
+ ,9.3.25)",org.eclipse.jetty.util.statistic;version="[9.3.24,9.3.25)",
+ org.eclipse.jetty.util.thread;version="[9.3.24,9.3.25)",javax.naming,
+ javax.net.ssl,javax.security.auth,javax.sql
+Originally-Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326
+
