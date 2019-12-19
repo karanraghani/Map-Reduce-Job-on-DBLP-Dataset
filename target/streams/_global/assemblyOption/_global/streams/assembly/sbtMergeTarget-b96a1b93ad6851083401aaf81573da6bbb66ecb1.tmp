@@ -1,8 +1,0 @@
-START_TAGS = "<article ,<inproceedings ,<proceedings ,<book ,<incollection ,<phdthesis ,<mastersthesis, <www, <person, <data "
-END_TAGS = "</article>,</inproceedings>,</proceedings>,</book>,</incollection>,</phdthesis>,</mastersthesis>,</www>,</person>,</data>"
-
-PATH_OUTPUT1 = "/outputAuthorCount"
-PATH_OUTPUT2 = "/outputYear"
-PATH_OUTPUT3 = "/outputAuthorRange"
-PATH_OUTPUT4 = "/outputAuthorshipScore"
-PATH_OUTPUT5 = "/outputCollaborator"

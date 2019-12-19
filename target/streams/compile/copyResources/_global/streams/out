@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/application.conf,/home/karan/Documents/EMR_hw2/karan_raghani_hw2/target/scala-2.12/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/dblp.dtd,/home/karan/Documents/EMR_hw2/karan_raghani_hw2/target/scala-2.12/classes/dblp.dtd)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/CoAuthorRange.png,/home/karan/Documents/EMR_hw2/karan_raghani_hw2/target/scala-2.12/classes/CoAuthorRange.png)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/Demo_input.xml,/home/karan/Documents/EMR_hw2/karan_raghani_hw2/target/scala-2.12/classes/Demo_input.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/karan/Documents/EMR_hw2/karan_raghani_hw2/src/main/resources/PublicationYears.png,/home/karan/Documents/EMR_hw2/karan_raghani_hw2/target/scala-2.12/classes/PublicationYears.png)[0m

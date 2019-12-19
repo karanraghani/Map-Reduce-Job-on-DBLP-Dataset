@@ -1,8 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mMyMapperReducerTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Able to Load Start Tags and End Tags[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- The Output Folders are configured with configurations[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Test for Checking Median[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Test for Mean for Number of Collaborations[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Test for MaxCollaboration [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Author count within the xml chunk for a particular publication [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Authorship Score for authors for a publication[0m[0m
